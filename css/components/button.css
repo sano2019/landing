@@ -1,0 +1,12 @@
+.btn-join{
+  border: 1px solid #fff;
+  background-color: #e20e0e;
+  color: #fff;
+  padding: 10px 30px;
+  border-radius: 4px;
+}
+.btn-join:hover{
+  border: 1px solid #123123;
+  background-color: #fff;
+  color: #e20e0e;
+}
